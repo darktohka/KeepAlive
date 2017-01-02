@@ -9,6 +9,7 @@ It is compatible with the following games:
 * Toontown Fellowship
 * Toontown Relived
 * Toontown Stride
+* Operation Dessert Storm
 
 ###Build Instructions
 

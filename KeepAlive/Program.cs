@@ -12,7 +12,7 @@ namespace KeepAlive
     {
         private NotifyIcon icon;
         private System.Threading.Timer timer;
-        private readonly string[] processes = { "TTREngine", "fellowship", "relived", "ppython" };
+        private readonly string[] processes = { "TTREngine", "fellowship", "relived", "ppython", "ods" };
 
         [DllImport("user32.dll")]
         public static extern IntPtr PostMessage(IntPtr hWnd, uint Msg, IntPtr wParam, IntPtr lParam);
